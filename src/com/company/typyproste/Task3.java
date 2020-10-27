@@ -13,5 +13,9 @@ public class Task3 {
             tab[i] = sc.nextInt();
         }
         System.out.println();
+        for (int i = 0; i < n; i++) {
+            System.out.println(tab[n]);
+
+        }
     }
 }
